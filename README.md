@@ -1,3 +1,3 @@
 # test
 测试图片展示
-![image](test/images/7.jpg)
+![image](https://github.com/nightshp/test/edit/master/test/images/7.jpg)
